@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tmahni
-- 👀 I’m interested in emmbeded electronics
+- 👀 I’m interested in embedded electronics
 - 🌱 I’m currently learning hardware design
 
 <!---
